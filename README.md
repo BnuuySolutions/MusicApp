@@ -14,6 +14,6 @@ We have a few goals in mind:
   - Apple Music (paid account required, obviously)
   - Soundcloud
 - Built-in support for the `BASS` audio backend, with various BASS effects and subsystems such as ASIO/WASAPI bundled in.
-- Both a CLI ""GUI"" and (primarily) Avalonia app, of course working on both Widnows, Linux and macOS.
+- Both a CLI ""GUI"" and (primarily) Avalonia app, of course working on both Windows, Linux and macOS.
 
 More info will be shared soon, stay tuned.
